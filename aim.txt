@@ -1,0 +1,13 @@
+it displays what i should be doing now according to google calendar
+                            |
+                            |
+        Starts a timer till the end time on calendar
+                            |
+                            |
+            sends a notification when it is done 
+                            |
+                            |
+                    Tell me my next task
+                            |
+                            |
+                        confirms it
